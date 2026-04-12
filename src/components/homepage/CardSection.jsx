@@ -3,7 +3,7 @@ import CardInfo from '@/ui/CardInfo';
 import ShowMoreBtn from '@/ui/ShowMoreBtn';
 
 const CardSection = async() => {
-    const res = await fetch('http://localhost:3000/data.json')
+    const res = await fetch('/data.json')
     const cards = await res.json();
     return (
        <div className='container mx-auto py-10'>
