@@ -1,0 +1,530 @@
+[
+  {
+    "image": "https://picsum.photos/seed/photosnap/100",
+    "title": "PhotoSnap",
+    "companyName": "PixelLab Inc.",
+    "id": 1,
+    "description": "A powerful photo editing tool with AI-enhanced filters, layers, and one-tap background removal.",
+    "size": 48,
+    "reviews": 14230,
+    "ratingAvg": 4.6,
+    "downloads": 980000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 210
+      },
+      {
+        "name": "2 star",
+        "count": 380
+      },
+      {
+        "name": "3 star",
+        "count": 1100
+      },
+      {
+        "name": "4 star",
+        "count": 3540
+      },
+      {
+        "name": "5 star",
+        "count": 9000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/taskflow/100",
+    "title": "TaskFlow",
+    "companyName": "ProWork Solutions",
+    "id": 2,
+    "description": "Smart task manager with Kanban boards, time tracking, and team collaboration in real-time.",
+    "size": 32,
+    "reviews": 9870,
+    "ratingAvg": 4.4,
+    "downloads": 760000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 870
+      },
+      {
+        "name": "4 star",
+        "count": 2800
+      },
+      {
+        "name": "5 star",
+        "count": 5700
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/wavepod/100",
+    "title": "WavePod",
+    "companyName": "SoundByte Media",
+    "id": 3,
+    "description": "Discover and stream millions of podcasts with offline downloads, sleep timer, and smart playlists.",
+    "size": 55,
+    "reviews": 22400,
+    "ratingAvg": 4.7,
+    "downloads": 2100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 1600
+      },
+      {
+        "name": "4 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 15000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/cryptovault/100",
+    "title": "CryptoVault",
+    "companyName": "Nexus Financial",
+    "id": 4,
+    "description": "Secure crypto wallet supporting 200+ coins with portfolio tracking and live price alerts.",
+    "size": 29,
+    "reviews": 5600,
+    "ratingAvg": 3.9,
+    "downloads": 430000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 420
+      },
+      {
+        "name": "2 star",
+        "count": 590
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 1700
+      },
+      {
+        "name": "5 star",
+        "count": 1690
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/mindspace/100",
+    "title": "MindSpace",
+    "companyName": "Calm Harbor Ltd.",
+    "id": 5,
+    "description": "Guided meditation, breathing exercises, and sleep stories to reduce stress and improve focus.",
+    "size": 41,
+    "reviews": 31000,
+    "ratingAvg": 4.8,
+    "downloads": 3400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 1400
+      },
+      {
+        "name": "4 star",
+        "count": 7000
+      },
+      {
+        "name": "5 star",
+        "count": 22000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/shoptrail/100",
+    "title": "ShopTrail",
+    "companyName": "CartLogic Corp.",
+    "id": 6,
+    "description": "Price comparison engine that tracks deals across 500+ retailers and sends drop alerts instantly.",
+    "size": 22,
+    "reviews": 7800,
+    "ratingAvg": 4.2,
+    "downloads": 620000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 230
+      },
+      {
+        "name": "2 star",
+        "count": 450
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 3620
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/fitnessforge/100",
+    "title": "FitnessForge",
+    "companyName": "IronPeak Health",
+    "id": 7,
+    "description": "Custom workout plans, rep counters using your camera, and nutrition tracking all in one app.",
+    "size": 67,
+    "reviews": 18900,
+    "ratingAvg": 4.5,
+    "downloads": 1700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 280
+      },
+      {
+        "name": "2 star",
+        "count": 520
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 5300
+      },
+      {
+        "name": "5 star",
+        "count": 11000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/linguabot/100",
+    "title": "LinguaBot",
+    "companyName": "Polyglot AI",
+    "id": 8,
+    "description": "Learn 40+ languages using conversational AI, spaced repetition, and immersive story lessons.",
+    "size": 38,
+    "reviews": 26500,
+    "ratingAvg": 4.7,
+    "downloads": 2800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 1600
+      },
+      {
+        "name": "4 star",
+        "count": 6000
+      },
+      {
+        "name": "5 star",
+        "count": 18000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/docusign2/100",
+    "title": "SignDesk",
+    "companyName": "PaperFree Tech",
+    "id": 9,
+    "description": "eSign documents, create PDF forms, and manage approvals with legally binding digital signatures.",
+    "size": 19,
+    "reviews": 4200,
+    "ratingAvg": 4.1,
+    "downloads": 310000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "2 star",
+        "count": 290
+      },
+      {
+        "name": "3 star",
+        "count": 730
+      },
+      {
+        "name": "4 star",
+        "count": 1300
+      },
+      {
+        "name": "5 star",
+        "count": 1700
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/cloudnotes/100",
+    "title": "CloudNotes",
+    "companyName": "Notely Corp.",
+    "id": 10,
+    "description": "Markdown-powered note-taking with nested folders, tags, device sync, and web clipper extension.",
+    "size": 26,
+    "reviews": 11300,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 430
+      },
+      {
+        "name": "3 star",
+        "count": 1070
+      },
+      {
+        "name": "4 star",
+        "count": 3400
+      },
+      {
+        "name": "5 star",
+        "count": 6200
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/mapwander/100",
+    "title": "MapWander",
+    "companyName": "GeoRoute Labs",
+    "id": 11,
+    "description": "Offline maps and hiking trail navigator with elevation profiles, GPX export, and crowd-sourced waypoints.",
+    "size": 82,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 260
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 5000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/budgetwise/100",
+    "title": "BudgetWise",
+    "companyName": "FinSmarts Inc.",
+    "id": 12,
+    "description": "Personal finance tracker with bank sync, spending insights, bill reminders, and savings goals.",
+    "size": 34,
+    "reviews": 15700,
+    "ratingAvg": 4.4,
+    "downloads": 1300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 310
+      },
+      {
+        "name": "2 star",
+        "count": 590
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 8500
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/vidcraft/100",
+    "title": "VidCraft",
+    "companyName": "Frame & Cut Studio",
+    "id": 13,
+    "description": "Short-form video editor with transitions, captions, music library, and one-click social export.",
+    "size": 91,
+    "reviews": 20100,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 280
+      },
+      {
+        "name": "2 star",
+        "count": 520
+      },
+      {
+        "name": "3 star",
+        "count": 1700
+      },
+      {
+        "name": "4 star",
+        "count": 5100
+      },
+      {
+        "name": "5 star",
+        "count": 12500
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/recipebox/100",
+    "title": "RecipeBox",
+    "companyName": "TasteMakers LLC",
+    "id": 14,
+    "description": "Save recipes from any website, auto-generate shopping lists, and plan weekly meals with nutrition info.",
+    "size": 27,
+    "reviews": 6400,
+    "ratingAvg": 4.2,
+    "downloads": 490000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 170
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 820
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 3000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/skyscan2/100",
+    "title": "SkyScan",
+    "companyName": "AeroView Systems",
+    "id": 15,
+    "description": "Point your phone at the sky to identify planes, satellites, and stars using augmented reality overlays.",
+    "size": 43,
+    "reviews": 9200,
+    "ratingAvg": 4.8,
+    "downloads": 820000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 720
+      },
+      {
+        "name": "4 star",
+        "count": 2200
+      },
+      {
+        "name": "5 star",
+        "count": 6000
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/codequest/100",
+    "title": "CodeQuest",
+    "companyName": "DevMind Academy",
+    "id": 16,
+    "description": "Learn programming through gamified challenges in Python, JS, and SQL — from beginner to advanced.",
+    "size": 36,
+    "reviews": 13500,
+    "ratingAvg": 4.5,
+    "downloads": 1150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 220
+      },
+      {
+        "name": "2 star",
+        "count": 430
+      },
+      {
+        "name": "3 star",
+        "count": 1350
+      },
+      {
+        "name": "4 star",
+        "count": 3900
+      },
+      {
+        "name": "5 star",
+        "count": 7600
+      }
+    ]
+  }
+]
