@@ -1,5 +1,4 @@
 import CardSection from '@/components/homepage/CardSection';
-import React from 'react';
 
 const AppsPage = () => {
     return (
